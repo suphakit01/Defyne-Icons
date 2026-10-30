@@ -1,4 +1,4 @@
-# defyne-icons
+# Defyne-Icons
 
 A lightweight React icon library. Icons are stroke-based SVGs that inherit color from the surrounding text and can be styled with CSS or Tailwind.
 
@@ -57,11 +57,6 @@ Icons use `stroke="currentColor"`, so they follow the text color by default.
 > `stroke-3` requires Tailwind v4. In v3, use `[stroke-width:3]` instead.
 
 ## Available icons
-
-| Icon       | Name        |
-| ---------- | ----------- |
-| User       | `User`      |
-| User slash | `UserSlash` |
 
 To list all icons at runtime:
 
